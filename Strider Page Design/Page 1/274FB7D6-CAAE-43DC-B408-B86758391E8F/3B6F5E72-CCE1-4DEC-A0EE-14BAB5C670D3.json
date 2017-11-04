@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 23,
     "width": 123,
-    "x": 123,
-    "y": 189
+    "x": 127,
+    "y": 205
   },
   "glyphBounds": "{{1, 5}, {121, 16}}",
   "heightIsClipped": false,
@@ -42,6 +42,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5999999642372131
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,

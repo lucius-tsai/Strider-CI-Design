@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6C56EA4E-97EF-4624-AAA1-CD80166E4FB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 38,
+    "width": 38,
+    "x": 590,
+    "y": 540
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E6DAAEBC-770C-40F5-A110-A2F6C170294D"
+    },
+    {
+      "class": "bitmap",
+      "id": "4E01A493-2563-4DE3-BAC5-2ADF185C316F"
+    }
+  ],
+  "name": "Mask Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

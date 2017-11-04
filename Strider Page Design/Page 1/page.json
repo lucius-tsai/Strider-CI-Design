@@ -33,18 +33,6 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "274FB7D6-CAAE-43DC-B408-B86758391E8F"
-    },
-    {
-      "class": "artboard",
-      "id": "EF5B52DA-A2F9-49EB-B267-9894BA494583"
-    },
-    {
-      "class": "artboard",
-      "id": "89C0F6A8-34BF-4CA0-B6A0-E3EE09DD7B22"
-    },
-    {
       "class": "shapeGroup",
       "id": "33D3D4E1-D93E-493F-B9D5-0D2411AB86DD"
     },
@@ -57,28 +45,64 @@
       "id": "9001AD0B-A5F3-4296-814B-688BA6A53329"
     },
     {
-      "class": "shapeGroup",
-      "id": "EFB92FD5-9F1E-486C-A15C-1496BCCB9A1F"
+      "class": "bitmap",
+      "id": "C3213D50-5778-4351-B68B-F6CBBFEF9C51"
     },
     {
-      "class": "shapeGroup",
-      "id": "56F734FC-64CA-43B6-9A68-52F022FB4548"
+      "class": "artboard",
+      "id": "94DDDEEB-F003-4D15-A661-C8268CADB2B5"
     },
     {
-      "class": "text",
-      "id": "B171E3C7-3515-4101-B10F-3B3802D72A11"
+      "class": "artboard",
+      "id": "4CF77A54-E48C-4BFB-B9DD-AFDB9CBA8331"
     },
     {
-      "class": "text",
-      "id": "7B2E5586-90CB-421E-90CB-A80A667F66BA"
+      "class": "artboard",
+      "id": "8B79C6E4-813A-45B3-8B2D-50B7BD48F16E"
     },
     {
-      "class": "group",
-      "id": "D96FD447-35B3-4BBC-B827-87C2BFF34D0B"
+      "class": "artboard",
+      "id": "FD2CA14C-E3C3-40AB-8A90-721CAB34333A"
     },
     {
-      "class": "text",
-      "id": "754C34C7-7FF7-40A6-A4DF-0ECBA85FD87A"
+      "class": "artboard",
+      "id": "5795C80F-2010-421D-8AAB-D705AA5D18B2"
+    },
+    {
+      "class": "artboard",
+      "id": "A5334CAC-905E-416A-BA5C-A9387B3F9B94"
+    },
+    {
+      "class": "artboard",
+      "id": "058635CB-790A-484A-A711-BD38AF83F620"
+    },
+    {
+      "class": "artboard",
+      "id": "42146523-306D-4EAE-BA1F-62EFE1BAD262"
+    },
+    {
+      "class": "artboard",
+      "id": "1A9E3181-9E11-4409-8EF0-8F68501B335E"
+    },
+    {
+      "class": "artboard",
+      "id": "186815DD-BA84-4801-AB70-3BDDD6A644EA"
+    },
+    {
+      "class": "artboard",
+      "id": "89C0F6A8-34BF-4CA0-B6A0-E3EE09DD7B22"
+    },
+    {
+      "class": "artboard",
+      "id": "615691F7-9B46-4174-BE18-7C411545DFFA"
+    },
+    {
+      "class": "artboard",
+      "id": "EF5B52DA-A2F9-49EB-B267-9894BA494583"
+    },
+    {
+      "class": "artboard",
+      "id": "274FB7D6-CAAE-43DC-B408-B86758391E8F"
     }
   ],
   "name": "Page 1",

@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 156,
+    "height": 35,
+    "width": 176,
     "x": 55,
-    "y": 306
+    "y": 332
   },
   "hasClickThrough": false,
   "hasClippingMask": false,

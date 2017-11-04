@@ -48,8 +48,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CC4447B9-F8E2-4B85-84D7-8B6450D904EE"
+    },
     {
       "class": "text",
       "id": "19F471C7-F1B8-43E9-A75F-4D9F03380344"
@@ -60,47 +64,15 @@
     },
     {
       "class": "shapeGroup",
+      "id": "2840AF1E-B1CF-45F2-A812-B73712EB283C"
+    },
+    {
+      "class": "shapeGroup",
       "id": "5B0EDB76-159F-4DD1-BEDD-CF872E37ABD3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2465E4BE-EA91-436D-ACF9-59250B1A4B18"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "762842E9-888F-4820-B491-8EB366AFB8D8"
-    },
-    {
-      "class": "text",
-      "id": "C5FF7A7E-EDE4-48A0-A0B4-648D317FBFCE"
-    },
-    {
-      "class": "text",
-      "id": "B466156B-DBA4-47F0-9206-C8F652796ED5"
-    },
-    {
-      "class": "text",
-      "id": "71F37FD7-B5A0-412B-B13F-324596CE8050"
-    },
-    {
-      "class": "text",
-      "id": "4CA8CC5B-51F5-43A2-9BDB-26836425791A"
     },
     {
       "class": "text",
       "id": "5FDC623D-A665-46B7-9150-B2FDF4A0C6E3"
-    },
-    {
-      "class": "group",
-      "id": "79ACA11F-C94B-493C-B594-71876D92AB0D"
-    },
-    {
-      "class": "text",
-      "id": "9D18E871-8F7B-4C15-A06C-BE7ADFCE3B0F"
-    },
-    {
-      "class": "text",
-      "id": "56E7552F-84C0-427D-A313-A0439C439BFA"
     },
     {
       "class": "shapeGroup",
@@ -173,10 +145,6 @@
     {
       "class": "text",
       "id": "C7AA3CBA-520C-44B1-94A0-FBEF9F73FEDD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CC4447B9-F8E2-4B85-84D7-8B6450D904EE"
     },
     {
       "class": "shapeGroup",
@@ -265,10 +233,46 @@
     {
       "class": "text",
       "id": "FA10A811-5A1B-43F8-BCA2-350307A4480F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1BD21B14-EFCD-4B95-B3E5-7243D0461597"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC17EB09-86B9-469F-850D-C0070B44715D"
+    },
+    {
+      "class": "text",
+      "id": "CF2B8185-262D-424C-A04D-F87160760AD0"
+    },
+    {
+      "class": "text",
+      "id": "C9B0CF01-DB5D-44CE-B28D-1C4D393B3349"
+    },
+    {
+      "class": "text",
+      "id": "811CB86B-CF86-49E8-AB76-A49535F3DA34"
+    },
+    {
+      "class": "text",
+      "id": "C1CB4E01-C550-4C5E-97D5-1A640A51DA04"
+    },
+    {
+      "class": "group",
+      "id": "E5FEAC4B-D869-4D25-8DB5-3CAB014D3E2C"
+    },
+    {
+      "class": "text",
+      "id": "E85A097A-E990-4BCA-967E-0CB268181DE1"
+    },
+    {
+      "class": "text",
+      "id": "21046CCF-BA6F-4A01-B79A-6A9E80E620FA"
     }
   ],
-  "name": "Desktop HD Copy",
-  "nameIsFixed": false,
+  "name": "2. 專案",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

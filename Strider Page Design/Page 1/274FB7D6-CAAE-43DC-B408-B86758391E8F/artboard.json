@@ -48,7 +48,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -227,8 +227,8 @@
       "id": "EC71444C-0A38-4D9F-A15B-380E3192B105"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "1. 總覽",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
