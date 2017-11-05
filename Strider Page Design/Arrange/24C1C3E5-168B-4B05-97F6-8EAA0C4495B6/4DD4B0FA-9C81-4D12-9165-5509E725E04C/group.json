@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4DD4B0FA-9C81-4D12-9165-5509E725E04C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 459,
+    "width": 822,
+    "x": 352,
+    "y": 355
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DB70472F-0C54-4DC6-9C71-4CB667028668"
+    },
+    {
+      "class": "bitmap",
+      "id": "7DFF187F-1D86-4888-BBD3-994CDFBE448E"
+    }
+  ],
+  "name": "螢幕快照 2017-11-05 下午4.55.25",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
